@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.dart": "dart",
+        "LAB11_BST.C": "cpp",
+        "QUICKORT.C": "cpp",
+        "DLL.C": "cpp",
+        "FINALC.C": "cpp"
+    }
+}
